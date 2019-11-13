@@ -6,7 +6,7 @@ En este repositorio vas a encontrar el material de la clase 7 del curso en menci
 
 La presentación se encuentra en el link:
 
-https://alexvbr22082018.github.io/R_tools_with_R_class_6/
+https://alexvbr22082018.github.io/R_tools_with_R_class_7/
 
 No dudes en dejar tu comentario o sugerencia.
 
