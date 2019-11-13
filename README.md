@@ -2,7 +2,7 @@
 
 En este repositorio vas a encontrar el material de la clase 7 del curso en mención:
 
-## Road to ggplot2\ngather() & spread()
+## Road to ggplot2 .funs = gather() 
 
 La presentación se encuentra en el link:
 
