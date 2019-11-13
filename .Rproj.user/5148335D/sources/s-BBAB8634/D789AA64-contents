@@ -1,0 +1,33 @@
+
+library(tidyverse)
+
+'Puesto   Variación con respecto a 2016   País    Estimación 2017   Variación respecto a 2016
+1 	Sin cambios 	Bandera de Noruega Noruega 	0,953   Crecimiento 0,002
+2 	Sin cambios 	Bandera de Suiza Suiza 	0,944 	Crecimiento 0,001
+3 	Sin cambios 	Bandera de Australia Australia 	0,939 	Crecimiento 0,001
+4 	Sin cambios 	Bandera de Irlanda Irlanda 	0,938 	Crecimiento 0,004
+5 	Decrecimiento (1) 	Bandera de Alemania Alemania 	0,936 	Crecimiento 0,002
+6 	Sin cambios 	Bandera de Estados Unidos Estados Unidos 	0,935 	Crecimiento 0,002
+7 	Crecimiento (1) 	Bandera de Hong Kong Hong Kong 	0,933 	Crecimiento 0,003
+7 	Sin cambios 	Bandera de Suecia Suecia 	0,933 	Crecimiento 0,001
+9 	Decrecimiento (1) 	Bandera de Singapur Singapur 	0,932 	Crecimiento 0,002
+10 	Sin cambios 	Bandera de los Países Bajos Países Bajos 	0,931 	Crecimiento 0,003
+11 	Decrecimiento (1) 	Bandera de Dinamarca Dinamarca 	0,929 	Crecimiento 0,001
+12 	Sin cambios 	Bandera de Canadá Canadá 	0,926 	Crecimiento 0,004
+13 	Decrecimiento (1) 	Bandera de Islandia Islandia 	0,924 	Crecimiento 0,002
+14 	Sin cambios 	Bandera de Reino Unido Reino Unido 	0,922 	Crecimiento 0,002
+15 	Sin cambios 	Bandera de Finlandia Finlandia 	0,920 	Crecimiento 0,002
+16 	Sin cambios 	Bandera de Nueva Zelanda Nueva Zelanda 	0,917 	Crecimiento 0,002
+17 	Decrecimiento (1) 	Bandera de Bélgica Bélgica 	0,916 	Crecimiento 0,001
+18 	Decrecimiento (1) 	Bandera de Liechtenstein Liechtenstein 	0,916 	Crecimiento 0,001
+19 	Sin cambios 	Bandera de Japón Japón 	0,909 	Crecimiento 0,002
+20 	Sin cambios 	Bandera de Austria Austria 	0,908 	Crecimiento 0,002
+21 	Crecimiento (5) 	Bandera de Luxemburgo Luxemburgo 	0,904 	Crecimiento 0,001
+22 	Sin cambios 	Bandera de Corea del Sur Corea del Sur 	0,903 	Crecimiento 0,003
+22 	Decrecimiento (1) 	Bandera de Israel Israel 	0,903 	Crecimiento 0,001
+24 	Decrecimiento (1) 	Bandera de Francia Francia 	0,901 	Crecimiento 0,002
+25 	Decrecimiento (1) 	Bandera de Eslovenia Eslovenia 	0,896 	Crecimiento 0,002
+26 	Decrecimiento (1) 	Bandera de España España 	0,891 	Crecimiento 0,002
+27 	Sin cambios 	Bandera de República Checa República Checa 	0,888 	Crecimiento 0,003
+28 	Sin cambios 	Bandera de Italia Italia 	0,880 	Crecimiento 0,002 ' %>% 
+  

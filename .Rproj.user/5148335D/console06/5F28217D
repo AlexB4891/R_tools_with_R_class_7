@@ -1,0 +1,602 @@
+[0m[0KMicrosoft Windows [Versión 10.0.18362.418][0K[?25l
+(c) 2019 Microsoft Corporation. Todos los derechos reservados.[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hg[0Ki[0Kt[0K[61G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git p[0K[?25hu[0Kl[0Kl[0K[66G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[73G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K]0;  - git  pull origin master[?25l
+[0K[?25hFrom https://github.com/alexvbr22082018/analysis_tools_R[0K[?25l
+ * branch            master     -> FETCH_HEAD[0K
+[0K[?25h]0; Already up to date.[0K[?25l
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hg[0Ki[0Kt[0K[61G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[68G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote a[0K[?25hd[0Kd[0K[72G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[79G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://github.com/[0Ka
+lexvbr22082018/R_tools_with_R_class_7[0K[?25h]0;  - git  remote add origin https://github.com/alexvbr22082018/R_tools_with_R_class_7[?25l
+[0K[?25hfatal: remote origin already exists.[0K[?25l
+[0K[?25h]0; [?25l
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hgit remote add origin https://github.com/[0Ka[?25l
+lexvbr22082018/R_tools_with_R_class_7[0K[?25h[37G[36G[37G[38G[?25llexvbr22082018/R_tools_with_R_class_[0K[?25h[?25llexvbr22082018/R_tools_with_R_class[0K[?25h[?25llexvbr22082018/R_tools_with_R_clas[0K[?25h[?25llexvbr22082018/R_tools_with_R_cla[0K[?25h[?25llexvbr22082018/R_tools_with_R_cl[0K[?25h[?25llexvbr22082018/R_tools_with_R_c[0K[?25h[?25llexvbr22082018/R_tools_with_R_[0K[?25h[?25llexvbr22082018/R_tools_with_R[0K[?25h[?25llexvbr22082018/R_tools_with_[0K[?25h[?25llexvbr22082018/R_tools_with[0K[?25h[?25llexvbr22082018/R_tools_wit[0K[?25h[?25llexvbr22082018/R_tools_wi[0K[?25h[?25llexvbr22082018/R_tools_w[0K[?25h[?25llexvbr22082018/R_tools_[0K[?25h[?25llexvbr22082018/R_tool[0K[?25h[?25llexvbr22082018/R_too[0K[?25h[?25llexvbr22082018/R_to[0K[?25h[?25llexvbr22082018/R_t[0K[?25h[?25llexvbr22082018/R_[0K[?25h[?25llexvbr22082018/R[0K[?25h[?25llexvbr22082018/[0K[?25h[?25llexvbr22082018[0K[?25h[?25llexvbr2208201[0K[?25h[?25llexvbr220820[0K[?25h[?25llexvbr22082[0K[?25h[?25llexvbr2208[0K[?25h[?25llexvbr220[0K[?25h[?25llexvbr22[0K[?25h[?25llexvbr2[0K[?25h[?25llexvbr[0K[?25h[?25llexv[0K[?25h[?25llex[0K[?25h[?25lle[0K[?25h[?25ll[0K[?25h[?25l[0K[?25h[?25l[1AC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://github.com/[0K
+[0K[1A[98G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://github.com[0K
+[0K[1A[97G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://github.co[0K
+[0K[1A[96G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://github.c[0K
+[0K[1A[95G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://github.[0K
+[0K[1A[94G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://github[0K
+[0K[1A[93G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://githu[0K
+[0K[1A[92G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://gith[0K
+[0K[1A[91G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://git[0K
+[0K[1A[90G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://gi[0K
+[0K[1A[89G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://g[0K
+[0K[1A[88G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://[0K
+[0K[1A[87G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https:[0K
+[0K[1A[85G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https[0K
+[0K[1A[84G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin http[0K
+[0K[1A[83G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin htt[0K
+[0K[1A[82G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin ht[0K
+[0K[1A[81G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin h[0K
+[0K[1A[80G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin[0K
+[0K[1A[79G[?25h[78G[77G[76G[75G[74G[73G[72G[71G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote ad origin[0K
+[0K[1A[70G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote a origin[0K
+[0K[1A[69G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote  origin[0K
+[0K[1A[68G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote r origin[0K
+[0K[1A[69G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote re origin[0K
+[0K[1A[70G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote rem origin[0K
+[0K[1A[71G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote remo origin[0K
+[0K[1A[72G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote remov origin[0K
+[0K[1A[73G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote remove origin[0K
+[0K[1A[74G[?25h]0;  - git  remote remove origin[?25l
+[?25h]0; [?25l
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hgit remote remove origin[0K[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://github.com/[0Ka
+lexvbr22082018/R_tools_with_R_class_7[0K[?25h]0;  - git  remote add origin https://github.com/alexvbr22082018/R_tools_with_R_class_7[?25l
+[0K[?25h]0; [?25l
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hg[0Ki[0Kt[0K[61G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git p[0K[?25hu[0Kl[0Kl[0K[66G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[73G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K]0;  - git  pull origin master[?25l
+[0K[?25hwarning: no common commits[0K[?25l
+remote: Enumerating objects: 3, done.[0K
+remote: Counting objects: 100% (3/3), done.[0K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[0K
+[0K[?25h[?25lUnpacking objects:  33% (1/3)[0K[1G[?25h[?25lUnpacking objects:  66% (2/3)[0K[1G[?25hUnpacking objects: 100% (3/3), done.[0K[?25l
+[0K[?25hFrom https://github.com/alexvbr22082018/R_tools_with_R_class_7[0K[?25l
+ * branch            master     -> FETCH_HEAD[0K
+ * [new branch]      master     -> origin/master[0K
+[0K[?25h]0; fatal: refusing to merge unrelated histories[0K[?25l
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hgit pull origin master --allow-unrelated-[0Kh[?25l
+istories[0K[?25h]0;  - git  pull origin master --allow-unrelated-histories[?25l
+[0K[?25hFrom https://github.com/alexvbr22082018/R_tools_with_R_class_7[0K[?25l
+ * branch            master     -> FETCH_HEAD[0K
+[0K[?25hMerge made by the 'recursive' strategy.[0K[?25l
+[0K[?25h]0;  README.md | 1 [0;32m+[0m[0K[?25l
+ 1 file changed, 1 insertion(+)[0K
+ create mode 100644 README.md[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hg[0Ki[0Kt[0K[61G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[68G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[75G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote origin s[0K[?25hh[0Ko[0Kw[0K]0;  - git  remote origin show[?25l
+[0K[?25herror: Unknown subcommand: origin[0K[?25l
+usage: git remote [-v | --verbose][0K
+   or: git remote add [-t <branch>] [-m <master>] [-f] [--tags | --no-tags] [--mirror=<fetch|push[0K>
+] <name> <url>[0K
+   or: git remote rename <old> <new>[0K
+   or: git remote remove <name>[0K
+   or: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)[0K
+   or: git remote [-v | --verbose] show [-n] <name>[0K
+   or: git remote prune [-n | --dry-run] <name>[0K
+   or: git remote [-v | --verbose] update [-p | --prune] [(<group> | <remote>)...][0K
+   or: git remote set-branches [--add] <name> <branch>...[0K
+   or: git remote get-url [--push] [--all] <name>[0K
+   or: git remote set-url [--push] <name> <newurl> [<oldurl>][0K
+   or: git remote set-url --add <name> <newurl>[0K
+   or: git remote set-url --delete <name> <url>[0K
+[0K
+    -v, --verbose         be verbose; must be placed before a subcommand[0K[18G[?25h]0; [?25l
+[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hgit remote origin show[0K[78G[77G[76G[75G[74G[73G[72G[71G[70G[69G[68G[69G[70G[71G[72G[73G[74G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote origi show[0K[73G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote orig show[0K[72G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote ori show[0K[71G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote or show[0K[70G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote o show[0K[69G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote  show[0K[68G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show[0K[67G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remot show[0K[66G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show[0K[67G[?25h[68G[69G[70G[71G[72G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote showi[0K[?25hn[0K[75G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote showin s[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote showin[0K[75G[?25h[74G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote showi[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote sho[0K[?25hw[0K[73G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K]0;  - git  remote show origin[?25l
+[0K[?25h]0; * remote origin[0K[?25l
+  Fetch URL: https://github.com/alexvbr22082018/R_tools_with_R_class_7[0K
+  Push  URL: https://github.com/alexvbr22082018/R_tools_with_R_class_7[0K
+  HEAD branch: master[0K
+  Remote branch:[0K
+    master tracked[0K
+  Local ref configured for 'git push':[0K
+    master pushes to master (fast-forwardable)[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show origin[0K[?25h[78G[77G[76G[75G[74G[73G[72G[71G[70G[69G[68G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remoteshow origin[0K[67G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remotshow origin[0K[66G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remoshow origin[0K[65G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remshow origin[0K[64G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git reshow origin[0K[63G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git rshow origin[0K[62G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show origin[0K[61G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>gitshow origin[0K[60G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show origin[0K[61G[?25h]0;  - git  show origin[?25l
+[0K[?25h]0; fatal: ambiguous argument 'origin': unknown revision or path not in the working tree.[0K[?25l
+Use '--' to separate paths from revisions, like this:[0K
+'git <command> [<revision>...] -- [<file>...]'[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hgit show origin[0K[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show origi[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show orig[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show ori[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show or[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show o[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show[0K[66G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show r[0K[?25he[0Km[0Ko[0Kt[0Ke[0K[73G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show remote s[0K[?25hh[0Ko[0Kw[0K[78G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show remote show o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K]0;  - git  show remote show origin[?25l
+[0K[?25h]0; fatal: ambiguous argument 'remote': unknown revision or path not in the working tree.[0K[?25l
+Use '--' to separate paths from revisions, like this:[0K
+'git <command> [<revision>...] -- [<file>...]'[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hgit show remote show origin[0K[83G[82G[81G[80G[79G[78G[77G[76G[75G[74G[73G[72G[71G[70G[69G[68G[67G[66G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git showremote show origin[0K[65G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git shoremote show origin[0K[64G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git shremote show origin[0K[63G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git sremote show origin[0K[62G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show origin[0K[61G[?25h]0;  - git  remote show origin[?25l
+[0K[?25h]0; * remote origin[0K[?25l
+  Fetch URL: https://github.com/alexvbr22082018/R_tools_with_R_class_7[0K
+  Push  URL: https://github.com/alexvbr22082018/R_tools_with_R_class_7[0K
+  HEAD branch: master[0K
+  Remote branch:[0K
+    master tracked[0K
+  Local ref configured for 'git push':[0K
+    master pushes to master (fast-forwardable)[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hgit remote show origin[0K[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show remote show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show origi[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show orig[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show ori[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show o[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show[0K[73G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote sho[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote sh[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote[0K[68G[?25h[67G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remot[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remo[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git rem[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git re[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git r[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git[0K[61G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git p[0K[?25hu[0Kl[0Kl[0K]0;  - git  pull[?25l
+[0K[?25h]0; There is no tracking information for the current branch.[0K[?25l
+Please specify which branch you want to merge with.[0K
+See git-pull(1) for details.[0K
+[0K
+    git pull <remote> <branch>[0K
+[0K
+If you wish to set tracking information for this branch you can do so with:[0K
+[0K
+    git branch --set-upstream-to=origin/<branch> master[0K
+[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hgit pull[0K[66G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[73G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K]0;  - git  pull origin master[?25l
+[0K[?25hFrom https://github.com/alexvbr22082018/R_tools_with_R_class_7[0K[?25l
+ * branch            master     -> FETCH_HEAD[0K
+[0K[?25h]0; Already up to date.[0K[?25l
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25h[?25l[21A[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+                    master tracked[0K
+  Local ref configured for 'git push':[0K
+    master pushes to master (fast-forwardable)[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull[0K
+There is no tracking information for the current branch.[0K
+Please specify which branch you want to merge with.[0K
+See git-pull(1) for details.[0K
+[0K
+    git pull <remote> <branch>[0K
+[0K
+If you wish to set tracking information for this branch you can d[0Ko
+ so with:[0K
+[0K
+    git branch --set-upstream-to=origin/<branch> master[0K
+[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull [0Ko
+rigin master[0K
+From https://github.com/alexvbr22082018/R_tools_with_R_class_7[0K
+ * branch            master     -> FETCH_HEAD[0K
+Already up to date.[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25h[?25l[33AC:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[21A[57G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>g[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[21A[58G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>gi[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[21A[59G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[21A[60G[?25h[61G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git s[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[21A[62G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git st[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[21A[63G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git sta[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[21A[64G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git stat[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[21A[65G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git statu[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[21A[66G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git status[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K
+[0K[21A[67G[?25h]0;  - git  status[?25l
+[?25hOn branch master[0K[?25l
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mdeleted:    ../presentacion_1/base_R.jpg[0m[0K
+        [0;31mdeleted:    ../presentacion_1/crear_cuenta_github.png[0m[0K
+        [0;31mdeleted:    ../presentacion_1/crear_repositorio.png[0m[0K
+        [0;31mdeleted:    ../presentacion_1/git-logo.jpg[0m[0K
+        [0;31mdeleted:    ../presentacion_1/git_logo.jpg[0m[0K
+        [0;31mdeleted:    ../presentacion_1/github_logo.jpg[0m[0K
+        [0;31mdeleted:    ../presentacion_1/github_logo.png[0m[0K
+        [0;31mdeleted:    ../presentacion_1/idea_git.png[0m[0K
+        [0;31mdeleted:    ../presentacion_1/img_intro.png[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/css/all.css[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/css/v4-shims.css[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-brands-400.eot[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-brands-400.svg[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-brands-400.ttf[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-brands-400.woff[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-brands-400.woff2[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-regular-400.eot[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-regular-400.svg[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-regular-400.ttf[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-regular-400.woff[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-regular-400.woff2[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-solid-900.eot[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-solid-900.svg[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-solid-900.ttf[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-solid-900.woff[0m[0K
+        [0;31mdeleted:    ../presentacion_1/libs/font-awesome/webfonts/fa-solid-900.woff2[0m[0K
+        [0;31mdeleted:    ../presentacion_1/logo_vs.png[0m[0K
+        [0;31mdeleted:    ../presentacion_1/presentacion.Rmd[0m[0K
+        [0;31mdeleted:    ../presentacion_1/presentacion_1.Rmd[0m[0K
+        [0;31mdeleted:    ../presentacion_1/presentacion_1.html[0m[0K
+        [0;31mdeleted:    ../presentacion_1/repositorio.png[0m[0K
+        [0;31mdeleted:    ../presentacion_1/rmkd.jpg[0m[0K
+        [0;31mdeleted:    ../presentacion_1/rstudio_logo.png[0m[0K
+        [0;31mdeleted:    ../presentacion_1/shiny_contest.png[0m[0K
+        [0;31mdeleted:    ../presentacion_1/shiny_logo.jpg[0m[0K
+        [0;31mdeleted:    ../presentacion_1/tidyverse.jpg[0m[0K
+        [0;31mdeleted:    ../presentacion_2/img/hex-forcats.png[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/crosstalk/css/crosstalk.css[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/crosstalk/js/crosstalk.js[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/crosstalk/js/crosstalk.js.map[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/crosstalk/js/crosstalk.min.js[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/crosstalk/js/crosstalk.min.js.map[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/datatables-binding/datatables.js[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/datatables-css/datatables-crosstalk.css[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/dt-core/css/jquery.dataTables.extra.css[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/dt-core/css/jquery.dataTables.min.css[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/dt-core/js/jquery.dataTables.min.js[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/css/all.css[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/css/v4-shims.css[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-brands-400.eot[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-brands-400.svg[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-brands-400.ttf[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-brands-400.woff[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-brands-400.woff2[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-regular-400.eot[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-regular-400.svg[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-regular-400.ttf[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-regular-400.woff[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-regular-400.woff2[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-solid-900.eot[0m[0K[?25h]0; [?25l
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-solid-900.svg[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-solid-900.ttf[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-solid-900.woff[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/font-awesome/webfonts/fa-solid-900.woff2[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/htmlwidgets/htmlwidgets.js[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/jquery/LICENSE.txt[0m[0K
+        [0;31mdeleted:    ../presentacion_2/libs/jquery/jquery.min.js[0m[0K
+        [0;31mdeleted:    ../presentacion_2/presentacion_2.Rmd[0m[0K
+        [0;31mdeleted:    ../presentacion_2/presentacion_2.html[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/css/all.css[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/css/v4-shims.css[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-brands-400.eot[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-brands-400.svg[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-brands-400.ttf[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-brands-400.woff[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-brands-400.woff2[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-regular-400.eot[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-regular-400.svg[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-regular-400.ttf[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-regular-400.woff[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-regular-400.woff2[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-solid-900.eot[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-solid-900.svg[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-solid-900.ttf[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-solid-900.woff[0m[0K
+        [0;31mdeleted:    ../presentacion_3/libs/font-awesome/webfonts/fa-solid-900.woff2[0m[0K
+        [0;31mdeleted:    ../presentacion_3/presentacion_3.Rmd[0m[0K
+        [0;31mdeleted:    ../presentacion_3/presentacion_3.html[0m[0K
+        [0;31mdeleted:    ../presentacion_3/u3_d04-tidytext.html[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m../CARGAR_GIT.Rmd[0m[0K
+        [0;31m../HummusJS/[0m[0K
+        [0;31m../aaa.pdf[0m[0K
+        [0;31m../aaaa.pdf[0m[0K
+        [0;31m../aadasf.pdf[0m[0K
+        [0;31m../archivo_pdf.pdf[0m[0K
+        [0;31m../clase_1.pdf[0m[0K
+        [0;31m../contactos_curso.csv[0m[0K
+        [0;31m../contactos_import.R[0m[0K
+        [0;31m../contacts.csv[0m[0K
+        [0;31m../decktape/[0m[0K
+        [0;31m../pdf.R[0m[0K
+        [0;31m../pdfs/[0m[0K
+        [0;31m../presentacion_1/.gitignore[0m[0K
+        [0;31m../presentacion_1/README.md[0m[0K
+        [0;31m../presentacion_1/img/base_R.jpg[0m[0K
+        [0;31m../presentacion_1/img/idea_git.png[0m[0K
+        [0;31m../presentacion_1/img/rmkd.jpg[0m[0K
+        [0;31m../presentacion_1/img/shiny_contest.png[0m[0K
+        [0;31m../presentacion_1/img/shiny_logo.jpg[0m[0K
+        [0;31m../presentacion_1/img/tidyverse.jpg[0m[0K
+        [0;31m../presentacion_1/index.Rmd[0m[0K
+        [0;31m../presentacion_1/index.html[0m[0K
+        [0;31m../presentacion_1/libs/remark-css-0.0.1/[0m[0K
+        [0;31m../presentacion_1/presentacion_1.Rproj[0m[0K
+        [0;31m../presentacion_2/.gitignore[0m[0K
+        [0;31m../presentacion_2/README.md[0m[0K
+        [0;31m../presentacion_2/index.Rmd[0m[0K
+        [0;31m../presentacion_2/index.html[0m[0K
+        [0;31m../presentacion_2/libs/remark-css-0.0.1/[0m[0K
+        [0;31m../presentacion_2/presentacion_2.Rproj[0m[0K
+        [0;31m../presentacion_3/.gitignore[0m[0K
+        [0;31m../presentacion_3/README.md[0m[0K
+        [0;31m../presentacion_3/index.Rmd[0m[0K
+        [0;31m../presentacion_3/index.html[0m[0K
+        [0;31m../presentacion_3/libs/remark-css-0.0.1/[0m[0K
+        [0;31m../presentacion_3/presentacion_3.Rproj[0m[0K
+        [0;31m../presentacion_4/[0m[0K
+        [0;31m../presentacion_5/[0m[0K
+        [0;31m../presentacion_6/[0m[0K
+        [0;31m./[0m[0K
+        [0;31m../print.pdf[0m[0K
+        [0;31m../reveal.js/[0m[0K
+        [0;31m../rstudio.png[0m[0K
+        [0;31m../tarea_1_semana_1.zip[0m[0K
+        [0;31m../webshot.png[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hg[0Ki[0Kt[0K[61G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git i[0K[?25hn[0Ki[0Kt[0K]0;  - git  init[?25l
+[0K[?25h]0; Initialized empty Git repository in C:/Users/Equipo/Documents/course_R_tools/presentaci[0Ko[?25l
+n_7/.git/[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hgit init[0K[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git status[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull origin master[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show remote show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote origin show[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show remote show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull[0K[?25h origin master[0K[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git status[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git init[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git status[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull origin master[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git show remote show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote show origin[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote origin show[0K[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull origin master --allow-[0Ku
+nrelated-histories[0K[?25h[?25l[1AC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull origin master[0K
+[0K[1A[79G[?25h[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git remote add origin https://g[0Ki
+thub.com/alexvbr22082018/R_tools_with_R_class_7[0K[?25h[?25l
+[0K[?25h]0;  - git  remote add origin https://github.com/alexvbr22082018/R_tools_with_R_class_7]0; [?25l
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hg[0Ki[0Kt[0K[61G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git p[0K[?25hu[0Kl[0Kl[0K]0;  - git  pull[?25l
+[0K[?25hremote: Enumerating objects: 3, done.[0K[?25l
+remote: Counting objects: 100% (3/3), done.[0K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[0K
+[0K[?25h[?25lUnpacking objects:  33% (1/3)[0K[1G[?25h[?25lUnpacking objects:  66% (2/3)[0K[1G[?25hUnpacking objects: 100% (3/3), done.[0K[?25l
+[0K[?25hFrom https://github.com/alexvbr22082018/R_tools_with_R_class_7[0K[?25l
+ * [new branch]      master     -> origin/master[0K
+[0K[?25h]0; There is no tracking information for the current branch.[0K[?25l
+Please specify which branch you want to merge with.[0K
+See git-pull(1) for details.[0K
+[0K
+    git pull <remote> <branch>[0K
+[0K
+If you wish to set tracking information for this branch you can do so with:[0K
+[0K
+    git branch --set-upstream-to=origin/<branch> master[0K
+[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hgit pull[0K[66G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[73G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git pull origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K]0;  - git  pull origin master[?25l
+[0K[?25hFrom https://github.com/alexvbr22082018/R_tools_with_R_class_7[0K[?25l
+ * branch            master     -> FETCH_HEAD[0K
+[0K[?25h]0; [?25l
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hg[0Ki[0Kt[0K[61G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K]0;  - git  status[?25l
+[0K[?25h]0; On branch master[0K[?25l
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.RData[0m[0K
+        [0;31m.Rhistory[0m[0K
+        [0;31m.Rproj.user/[0m[0K
+        [0;31mindex.Rmd[0m[0K
+        [0;31mindex.html[0m[0K
+        [0;31mindex_files/[0m[0K
+        [0;31mlibs/[0m[0K
+        [0;31mpresentacion_7.Rproj[0m[0K
+[0K
+nothing added to commit but untracked files present (use "git add" to track)[0K
+[0K
+C:\Users\Equipo\Documents\course_R_tools\presentacion_7>[0K[?25hg[0Ki[0Kt[0K[61G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git a[0K[?25hd[0Kd[0K[65G[?25lC:\Users\Equipo\Documents\course_R_tools\presentacion_7>git add .[0K[?25h

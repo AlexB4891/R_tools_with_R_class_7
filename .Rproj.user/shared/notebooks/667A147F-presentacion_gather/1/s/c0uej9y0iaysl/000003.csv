@@ -1,0 +1,12 @@
+"0","png(""acumulado.png"",res = 250,units = ""in"",width = 9,height = 6)
+
+print(q)
+
+dev.off()
+"
+"1","null device "
+"1","
+"
+"1","          1 "
+"1","
+"

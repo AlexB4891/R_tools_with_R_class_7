@@ -1,0 +1,8 @@
+"0","library(ggpubr)"
+"0",""
+"0",""
+"0","join_plot <- ggarrange(p,q,labels = c(""A"",""B""),nrow = 1)"
+"2","Removed 5 rows containing missing values (position_stack)."
+"2","Removed 5 rows containing missing values (position_stack)."
+"0","join_plot"
+"0",""

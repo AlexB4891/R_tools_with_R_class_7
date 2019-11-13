@@ -1,0 +1,13 @@
+"0","
+png(""gráfico_barras_stack.png"",res = 250,units = ""in"",width = 9,height = 6)
+
+print(p)
+
+dev.off()
+"
+"1","null device "
+"1","
+"
+"1","          1 "
+"1","
+"

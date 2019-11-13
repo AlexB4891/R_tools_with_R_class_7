@@ -1,0 +1,21 @@
+p <- gather(barras_data, "variable","valor",-"Year") %>% 
+  filter(variable != "Total") %>%     # Quito las columnas que no deseo 
+  ggplot(aes(x = Year,                #<< La función "aes" va a tomar los  
+             y = valor,               #<< argumentos dependiendo del   
+             fill = variable          #<< gráfico  
+  )
+  )+
+  geom_col() 
+
+library(scales)
+library(viridis)
+p +
+  scale_y_continuous(labels = dollar) +       #<< [2]
+  scale_fill_viridis_d() +                    #<< [3]
+  labs(title = "Descomposición del Total",    #<< [4] 
+       subtitle = "Periodicidad: Anual" ,
+       caption = "Elaborado por: Eric Blair",
+       x = "Años",
+       y = "Miles USD",
+       fill = "Componente") +
+  theme_minimal()
